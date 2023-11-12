@@ -8,8 +8,6 @@ Used <a href="/" class="logo"> instead of <h1> for 'Horiseon', cause it's a logo
 
 Replaced <h2> in the footer with <p class="copyright"> cause that's not a heading.
 
-Deleted id's (they don't do anything).
-
 Added alt-tags to image and icon elements.
 
 Replaced div's with semantic elements where nesessary (navigation bar, header, footer, sections).
